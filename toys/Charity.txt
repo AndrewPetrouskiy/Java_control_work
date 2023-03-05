@@ -1,0 +1,6 @@
+Barny;150;560
+Darth Vader;200;700
+Darth Vader;350;700
+Mabel;150;270
+Teddy;120;340
+Diper;200;900
